@@ -1,0 +1,52 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+.header{
+    display: flex;
+    padding: 15px;
+    background-color: purple;
+    
+}
+
+ul{
+    text-align: center;
+    display: flex;
+    margin-left: 20px;
+    list-style: none;
+    color: azure;
+
+}
+
+li{
+    margin: 0 10px;
+    margin-top: 5px;
+}
+span{
+    margin-left: 835px;
+}
+h2{
+color: azure;
+}
+
+body{
+    background-color: aliceblue;
+}
+
+.loginbox{
+    width: 80%;
+    height: 70%;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    background-color: snow;
+    padding: 40px 25px;
+    margin-top: 10px;
+    box-sizing: 10px 10px;
+}
+
+h1{
+    margin-bottom: 20px;
+}
